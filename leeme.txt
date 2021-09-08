@@ -1,4 +1,2 @@
-hola señoras
-
-
-hola perro
+modificando el readme
+ya estamos agregando ssh
